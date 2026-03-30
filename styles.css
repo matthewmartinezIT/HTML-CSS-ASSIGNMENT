@@ -1,0 +1,26 @@
+/* BUTTON STYLING */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* BUTTON HOVER */
+button:hover {
+    background-color: #45a049;
+}
+
+/* LINKS */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* LINK HOVER */
+a:hover {
+    color: blue;
+}
